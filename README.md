@@ -1,5 +1,119 @@
 # 📊 Strategic Session - AI-Powered Business Strategy Facilitator
 
+> Full-featured strategic session with AI facilitator. Based on world-class practices: EOS, OKR, 4DX, Scaling Up.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-green.svg)](https://github.com/openclaw/openclaw)
+
+---
+
+## 🎯 What is this?
+
+AI skill that facilitates strategic sessions like a professional business coach:
+
+- 📋 **Onboarding** - learns your business through series of questions
+- 📊 **Scorecard** - tracks key metrics with trends
+- 🪨 **Rocks** - quarterly priorities (EOS)
+- 🎯 **ONE WIG** - one main priority (4DX)
+- 💀 **Pre-mortem** - finds plan weaknesses in advance
+- ❓ **5 Whys** - digs to root causes
+- 📈 **Lead Measures** - focus on actions, not results
+- 🧠 **Cognitive traps** - monitors 7 common thinking errors
+- 🛑 **Stop Doing** - helps eliminate unnecessary work
+
+## 👤 Who is it for?
+
+- Solo entrepreneurs and freelancers
+- Content creators
+- Startups and small business
+- Teams up to 50 people
+
+The skill adapts: on first run it determines if you work alone or with a team.
+
+## 🚀 Quick Start
+
+### Installation
+
+```bash
+# Copy SKILL.md to your agent's skills folder
+cd ~/your-workspace/skills
+mkdir strat-session
+cp /path/to/SKILL.md strat-session/SKILL.md
+```
+
+### Usage
+
+Tell your agent:
+- "Let's do a strategic session"
+- "Strategic session"
+- "Month review"
+- "Goals for next month"
+
+On first run the skill will conduct onboarding (5-10 minutes) to learn about your business.
+
+## 📐 Methodology
+
+The skill is built on synthesis of best world frameworks:
+
+| Framework | What we take | Author |
+|-----------|-------------|--------|
+| **EOS** | Rocks, Scorecard, Level 10 | Gino Wickman |
+| **OKR** | Objectives + Key Results | Andy Grove (Intel) |
+| **4DX** | WIG, Lead Measures, Scoreboard | FranklinCovey |
+| **Scaling Up** | OPSP, SWT, 7 Strata | Verne Harnish |
+
+## 📅 Recommended Rhythm
+
+| Event | When | Duration |
+|-------|------|----------|
+| Monthly session | 1st day | ~45 min |
+| Quarterly (deep) | Jan, Apr, Jul, Oct | ~60 min |
+| Mid-month check | 15th day | 5 min |
+| Weekly pulse | Friday | 1 min |
+
+## 💾 Where Results are Saved?
+
+The skill asks where you keep notes and adapts:
+
+- **Obsidian** - .md files in your vault
+- **Notion** - ready markdown for copy-paste
+- **Google Docs** - if integration configured
+- **Files** - `memory/strat-sessions/` (default)
+
+## 🧠 Cognitive Traps
+
+The skill monitors 7 common planning mistakes:
+
+1. **Planning Fallacy** - overestimating capabilities
+2. **Sunk Cost** - "already invested, must continue"
+3. **Confirmation Bias** - seeing only good
+4. **Status Quo** - "it's fine as is"
+5. **Shiny Object** - dropping current for new
+6. **Perfectionism** - not shipping until perfect
+7. **Comparison** - comparing to those at different stage
+
+## 📦 Dependencies
+
+**None.** The skill is fully autonomous. Additional skills (analytics, business-architect) can improve experience but are NOT required.
+
+## 🤝 Compatibility
+
+- OpenClaw / ClaudeClaw
+- Any model with tool calling support (Claude, GPT-4, Gemini)
+- macOS, Linux, Windows
+
+## 📄 License
+
+MIT License - use freely.
+
+---
+
+**Author:** [Aleksei Ulianov](https://github.com/AlekseiUL)
+
+---
+
+# 📊 Стратегическая Сессия - AI-Фасилитатор Бизнес-Стратегии
+
 > Полноценная стратегическая сессия с AI-фасилитатором. На базе мировых практик: EOS, OKR, 4DX, Scaling Up.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -109,3 +223,20 @@ MIT License - используйте свободно.
 ---
 
 **Автор:** [Aleksei Ulianov](https://github.com/AlekseiUL)
+
+---
+
+## Resources | Ресурсы
+
+- 📺 YouTube: [youtube.com/@alekseiulianov](https://youtube.com/@alekseiulianov)
+- 📱 Telegram: [t.me/Sprut_AI](https://t.me/Sprut_AI)
+- 🔥 AI ОПЕРАЦИОНКА (Premium): [Подписка](https://t.me/tribute/app?startapp=sJyg) — продвинутые материалы, скиллы, агенты, поддержка
+- 💻 GitHub: [github.com/AlekseiUL](https://github.com/AlekseiUL)
+
+## License
+
+MIT
+
+---
+
+*Strategic thinking powered by AI since 2026 | Стратегическое мышление на базе AI с 2026*
