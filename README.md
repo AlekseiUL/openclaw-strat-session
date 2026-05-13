@@ -62,6 +62,18 @@ Tell your agent:
 
 On first run the skill will conduct onboarding (5-10 minutes) to learn about your business.
 
+## Session flow
+
+```mermaid
+flowchart LR
+    A[Business context] --> B[Onboarding questions]
+    B --> C[Scorecard and constraints]
+    C --> D[Rocks / OKRs / WIG]
+    D --> E[Pre-mortem and 5 Whys]
+    E --> F[Lead measures]
+    F --> G[Review rhythm and accountability]
+```
+
 ## 📐 Methodology
 
 The skill is built on synthesis of best world frameworks:
